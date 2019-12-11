@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\s199052\source\repos\tictactoe\tictactoe\main.cpp(6): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199052\source\repos\tictactoe\tictactoe\main.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199052\source\repos\tictactoe\tictactoe\main.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199052\source\repos\tictactoe\tictactoe\main.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199052\source\repos\tictactoe\tictactoe\main.cpp(186): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\s199052\source\repos\tictactoe\tictactoe\main.cpp(209): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\s199052\source\repos\tictactoe\tictactoe\main.cpp(231): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\s199052\source\repos\tictactoe\tictactoe\main.cpp(254): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  TicTacToe.vcxproj -> C:\Users\s199052\source\repos\TicTacToe\Debug\TicTacToe.exe
